@@ -1,0 +1,18 @@
+th{
+    background-color: black;
+    color: aliceblue;
+}
+h1{
+    color: crimson;
+    margin-right:190px;
+}
+td{
+    background-color: aliceblue;
+    color: black;
+}
+
+table{
+    margin-left: 300px;
+    width: 50%;
+
+}
